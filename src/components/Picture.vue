@@ -9,7 +9,7 @@
         width="250"
       />
     </div>
-    <div v-else class="welcome">🏯</div>
+    <div v-else class="welcome">🌸</div>
   </div>
 </template>
 
@@ -78,7 +78,7 @@ export default {
   font-family: "Press Start 2P", cursive;
   font-size: 300px;
   align-content: center;
-  background-color: rgb(115, 238, 110);
+  background-color: rgb(0, 0, 0);
   margin-left: 20px;
   margin-top: 20px;
   padding-top: 27px;
