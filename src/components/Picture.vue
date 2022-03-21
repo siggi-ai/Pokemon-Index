@@ -59,6 +59,7 @@ export default {
   padding-right: 10px;
   background-size: 487px 650px;
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .pictureBox {
