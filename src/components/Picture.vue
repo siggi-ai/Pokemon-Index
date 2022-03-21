@@ -54,7 +54,8 @@ export default {
   background-color: rgb(115, 238, 110);
   border: solid 2px black;
   width: 100%;
-  background-image: url("https://cdn130.picsart.com/263776559023212.png");
+  /* background-image: url("https://cdn130.picsart.com/263776559023212.png"); */
+  background-image: url("/images/Radius_18.jpg");
   padding-top: 10px;
   padding-right: 10px;
   background-size: 487px 650px;
